@@ -1,4 +1,4 @@
-&lt;Project Name&gt;
+Mix-It!
 
 Software Requirements Specification
 
@@ -18,17 +18,16 @@ Revision History
 
 | **Date** | **Version** | **Description** | **Author** |
 | --- | --- | --- | --- |
-| &lt;dd/mmm/yy&gt; | &lt;x.x&gt; | &lt;details&gt; | &lt;name&gt; |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| 19.10.2017 | 1.0 | First attempt | Mit-It! Team |
 
 Table of Contents
 
 | 1.        Introduction        |
 | --- |
 |         Purpose        |
+This document serves as a detailled description and explenation of the Mix-It! project. It contains the required features, planned functionallity, and a detailled description on the system reaction. The used hard- and Software as well as interfaces will be shown.
 |         Scope        |
+This document applies for the latest version of the project. Mix-It! is a 
 |         Definitions, Acronyms, and Abbreviations        |
 |         References        |
 |         Overview        |
