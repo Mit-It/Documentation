@@ -75,7 +75,7 @@ It describes all the features of the application.
 ## 3. **Specific Requirements**
 
 
-### 3.1 **Functionality **
+### 3.1 **Functionality**
 
 #### 3.1.1 **Cocktail-list**  
   A visitor can view the different cocktails in a list form on the website.
