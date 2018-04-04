@@ -69,7 +69,7 @@ Our device can then be linked to your account and with one button press your coc
 The overall description is given by the use-case diagramm.
 It describes all the features of the application.
 
-![Use-Case](https://github.com/Mit-It/Documentation/blob/master/Pictures/Use_case.jpg)
+![Use-Case](https://github.com/Mit-It/Documentation/blob/master/Use%20Cases/Use_case_diagram.png)
 
 
 ## 3. **Specific Requirements**
@@ -113,7 +113,7 @@ It describes all the features of the application.
 ### 3.2 **Usability**  
 
 #### 3.2.1  **User-Interface**  
-The application will be easy to use with an structured and clean user interface. The design should be responsive
+The application will be easy to use with an structured, modern and clean user interface. The application is webbased and should be responsive. 
 
 ### 3.3 **Reliability**  
 
@@ -123,30 +123,32 @@ The website should be available 95% of the time. During the development this ava
 ### 3.4 **Performance**  
 
 #### 3.4.1 **Response time**  
-The response time of the website should be as fast as possible. At maximum 4 seconds on any page.
+The response time of the website should be as fast as possible. At maximum 2 seconds on any page.
 
 #### 3.4.1 **Capacity**  
-The website should handle up to 500 registerd users and up to 75 users at one time.
+The website should handle up to 1000 registerd users and up to 200 users at one time.
 
 ### 3.5 **Supportability**  
 
 #### 3.5.1 **Server**  
-As the website will be developed locally we will use a Tomcat container.
-The server therefore must run an apache tomcat webserver and must be able to support a mysql database.
+The website will be developed local with hot-deployment to the server. Changes will be directly uploaded when saved.
 
 ### 3.6 **Design Constraints**  
 
-#### 3.6.1 **Git**  
-Git is used for version control
+#### 3.6.1 Technologies
+We are using the following technologies: 
+-GitHub for version control
+-MySQL for database and phpMyAdmin for the managing-surface
+-Laravel (php framework) for development
+-HTML, CSS for struktur
+-JavaScript for effects
+-php for logic
+-rasperry pi for the interface to the mixing maschine
+-phyton for logic on the rasperry pi
+-phpStorm as IDE and deployment tool
+-eclipse as IDE for testing 
 
-#### 3.6.1 **Database**  
-For our database MySql will be used
-
-#### 3.6.1 **Mixing machine**  
-The mixing machine will use a raspberry pi.
-The code will be written with python
-
-### 3.7 **On-line User Documentation and Help System Requirements**  
+### 3.7 **Online User Documentation and Help System Requirements**  
 Not applicable
 
 ### 3.8 **Purchased Components**  
