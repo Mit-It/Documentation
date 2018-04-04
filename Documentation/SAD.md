@@ -14,14 +14,16 @@ The scope of this SAD is to show the architecture of the Mix-It project. Affecte
 n/a
 
 ## 2. Architectural Representation
-Mix-It uses the MVC for its architecture design.
+Mix-It uses the MVC from Laravel for its architecture design.
 
 MVC Diagram: 
 
 ![MVC][]
 
 ## 3.Architectural Goals and Constraints 
-We couldn’t fully generate the Class Diagram in our IDE. The Database struckture will be implementet with an MySQL databse.
+This projekt will be a webbbased application. The PHP-framework Laravel will be used for implementing. Laravel uses PHP for the logic, HTML for the structure, CSS for design and JavaScript for some client-site logic and effects and also we will do. Also Bootstrap is included by default in each Laravel-Project. Bootstrap is a CSS and JavaScript Library which provides a lot of predesign design-patterns and other functionality. 
+
+The Interface to the mixing-machine will be implemented on a rasperry-pi. The programming language on the rasperry pi will be python. For communication between website an pi we need an format both languages (php and python) can read. For transfer of the cocktails-data we will use the format json.
 
 ## 4. Use-Case View 
 n/a
