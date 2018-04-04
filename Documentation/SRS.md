@@ -137,16 +137,16 @@ The website will be developed local with hot-deployment to the server. Changes w
 
 #### 3.6.1 Technologies
 We are using the following technologies: 
--GitHub for version control
--MySQL for database and phpMyAdmin for the managing-surface
--Laravel (php framework) for development
--HTML, CSS for struktur
--JavaScript for effects
--php for logic
--rasperry pi for the interface to the mixing maschine
--phyton for logic on the rasperry pi
--phpStorm as IDE and deployment tool
--eclipse as IDE for testing 
+- GitHub for version control
+- MySQL for database and phpMyAdmin for the managing-surface
+- Laravel (php framework) for development
+- HTML, CSS for struktur
+- JavaScript for effects
+- php for logic
+- rasperry pi for the interface to the mixing maschine
+- phyton for logic on the rasperry pi
+- phpStorm as IDE and deployment tool
+- eclipse as IDE for testing 
 
 ### 3.7 **Online User Documentation and Help System Requirements**  
 Not applicable
