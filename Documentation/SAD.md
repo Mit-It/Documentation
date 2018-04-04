@@ -52,5 +52,5 @@ tbd
 To ensure a high quality code we write and run tests with cucumber.
 
 <!-- picture links -->
-[MVC]: https://github.com/Mit-It/Documentation/blob/master/Pictures/ClassDiagram2.png "MVC Diagram"
-[ER-Diagramm]: https://github.com/Mit-It/Documentation/blob/master/Pictures/erdplus-diagram.png "ER-Diagramm"
+[MVC]: https://github.com/Mit-It/Documentation/blob/master/Development/MVC-Laravel.png "MVC Diagram"
+[ER-Diagramm]: https://github.com/Mit-It/Documentation/blob/master/Database/database-struktur.png "ER-Diagramm"
