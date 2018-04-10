@@ -27,4 +27,4 @@ If the user applies invalid data, he will be redirected to a new cocktail form
 not applicable
   
 <!-- picture links -->
-[UML]: https://github.com/Mit-It/Documentation/tree/master/Use%20Cases/add_recipe.png "UML Diagram"
+[UML]: https://github.com/Mit-It/Documentation/blob/master/Use%20Cases/add_recipe.png "UML Diagram"
