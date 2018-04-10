@@ -29,4 +29,4 @@ not applicable
 not applicable
   
 <!-- picture links -->
-[UML]: https://github.com/Mit-It/Documentation/tree/master/Use%20Cases/login.png "UML Diagram"
+[UML]: https://github.com/Mit-It/Documentation/blob/master/Use%20Cases/login.png "UML Diagram"
