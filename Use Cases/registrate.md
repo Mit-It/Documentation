@@ -1,6 +1,6 @@
 # Mix-It!
 
-## Use-Case Specification: Add-Recipe
+## Use-Case Specification: Registrate
 
 ### Version 1.0
 
@@ -27,4 +27,4 @@ If the user applies invalid data, he will be redirected back to the registrate f
 not applicable
   
 <!-- picture links -->
-[UML]: https://github.com/Mit-It/Documentation/tree/master/Use%20Cases/registrate "UML Diagram"
+[UML]: https://github.com/Mit-It/Documentation/blob/master/Use%20Cases/registrate.png "UML Diagram"
