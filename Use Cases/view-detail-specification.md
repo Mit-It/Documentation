@@ -31,5 +31,5 @@ The Cocktail layout with its data must be applied and shown.
 not applicable
   
 <!-- picture links -->
-[UML]: https://github.com/Mit-It/Documentation/blob/master/Week%204/view-detail.png "UML Diagram"
-[Mock]: https://github.com/Mit-It/Documentation/blob/master/Week%204/detail-screendesign.PNG "Mock-Up"
+[UML]: https://github.com/Mit-It/Documentation/blob/master/Use%20Cases/view-detail.png "UML Diagram"
+[Mock]:  "Mock-Up"
