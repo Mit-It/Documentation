@@ -1,6 +1,6 @@
 # Mix-It!
 
-## Use-Case Specification: View on recipbooks
+## Use-Case Specification: View own recipbooks
 
 ### Version 1.0
 
