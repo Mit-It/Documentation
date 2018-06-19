@@ -12,6 +12,9 @@ The use case allows users to add a new recipe. The user will be redirected to a 
 UML Diagramm
 ![UML][]
 
+Formular for adding the new recipe:
+![MockAddRecipeForm][]
+
 ## 3.Special Requirements
 not applicable
 
@@ -28,3 +31,4 @@ not applicable
   
 <!-- picture links -->
 [UML]: https://github.com/Mit-It/Documentation/blob/master/Use%20Cases/add_recipe.png "UML Diagram"
+[MockAddRecipeForm]: https://github.com/Mit-It/Documentation/blob/master/Wireframes/new_cocktail.JPG "Mock-Up"
