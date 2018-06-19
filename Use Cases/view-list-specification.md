@@ -31,5 +31,5 @@ The List with its data must be applied and shown. If the filter does not match a
 not applicable
   
 <!-- picture links -->
-[UML]: https://github.com/Mit-It/Documentation/blob/master/Week%204/view-list.png "UML Diagram"
-[Mock]: https://github.com/Mit-It/Documentation/blob/master/Week%204/list-screendesin.PNG "Mock-Up"
+[UML]: https://github.com/Mit-It/Documentation/blob/master/Use%20Cases/view-list.png "UML Diagram"
+[Mock]: "Mock-Up"
