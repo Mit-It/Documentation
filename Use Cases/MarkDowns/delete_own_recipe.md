@@ -41,4 +41,4 @@ not applicable
 [UML]: https://github.com/Mit-It/Documentation/blob/master/Use%20Cases/view-list.png "UML Diagram"
 [MockDeleteDetail]: https://github.com/Mit-It/Documentation/blob/master/Wireframes/delete_detail.JPG "Mock-Up"
 [MockDeleteList]: https://github.com/Mit-It/Documentation/blob/master/Wireframes/delete_own_list.JPG "Mock-Up"
-[MockDeleteConfirm]: https://github.com/Mit-It/Documentation/blob/master/Wireframes/delte_confirm.JPG "Mock-Up"
+[MockDeleteConfirm]: https://github.com/Mit-It/Documentation/blob/master/Wireframes/delete_confirm.JPG "Mock-Up"
