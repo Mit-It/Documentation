@@ -32,4 +32,4 @@ not applicable
   
 <!-- picture links -->
 [UML]: https://github.com/Mit-It/Documentation/blob/master/Use%20Cases/view-detail.png "UML Diagram"
-[Mock]:  "Mock-Up"
+[Mock]: https://github.com/Mit-It/Documentation/blob/master/Wireframes/detail.PNG "Mock-Up"
