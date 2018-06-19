@@ -38,7 +38,7 @@ The icon for removal must be show on the cocktail list and on the detail page fo
 not applicable
   
 <!-- picture links -->
-[UML]: https://github.com/Mit-It/Documentation/blob/master/Use%20Cases/view-list.png "UML Diagram"
+[UML]: https://github.com/Mit-It/Documentation/blob/master/Use%20Cases/delete_recipes.png "UML Diagram"
 [MockDeleteDetail]: https://github.com/Mit-It/Documentation/blob/master/Wireframes/delete_detail.JPG "Mock-Up"
 [MockDeleteList]: https://github.com/Mit-It/Documentation/blob/master/Wireframes/delete_list.JPG "Mock-Up"
-[MockDeleteConfirm]: https://github.com/Mit-It/Documentation/blob/master/Wireframes/delte_confirm.JPG "Mock-Up"
+[MockDeleteConfirm]: https://github.com/Mit-It/Documentation/blob/master/Wireframes/delete_confirm.JPG "Mock-Up"
