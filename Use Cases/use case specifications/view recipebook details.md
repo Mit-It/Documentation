@@ -33,5 +33,5 @@ The detail view also provides an icon for deleting an cocktail from the recipboo
 not applicable
   
 <!-- picture links -->
-[UML]: "UML Diagram"
+[UML]: https://github.com/Mit-It/Documentation/blob/master/Use%20Cases/view_recipebook_detail.png "UML Diagram"
 [MockNewRecipebook]: https://github.com/Mit-It/Documentation/blob/master/Wireframes/view_recipbook_details.PNG "Mock-Up"
