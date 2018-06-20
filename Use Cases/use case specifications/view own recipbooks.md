@@ -13,7 +13,6 @@ UML Diagramm
 ![UML][]
 
 ### 2.2Mock-Up:
-Creating a new recipbook:
 ![MockNewRecipebook][]
 
 
