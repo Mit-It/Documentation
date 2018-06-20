@@ -32,5 +32,5 @@ The icon / option for removing a new recipbook can be found under "Meine Rezeptb
 not applicable
   
 <!-- picture links -->
-[UML]: "UML Diagram"
+[UML]: https://github.com/Mit-It/Documentation/blob/master/Use%20Cases/delete_own_recipebook.png "UML Diagram"
 [MockNewRecipebook]: https://github.com/Mit-It/Documentation/blob/master/Wireframes/delete_recipebook.PNG "Mock-Up"
