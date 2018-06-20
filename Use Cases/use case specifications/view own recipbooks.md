@@ -32,5 +32,5 @@ The overview can be found under "Meine Rezeptbücher" in the main menu. It provi
 not applicable
   
 <!-- picture links -->
-[UML]: "UML Diagram"
+[UML]: https://github.com/Mit-It/Documentation/blob/master/Use%20Cases/view_own_recipebooks.png "UML Diagram"
 [MockNewRecipebook]: https://github.com/Mit-It/Documentation/blob/master/Wireframes/rezeptbuch-overview.JPG "Mock-Up"
